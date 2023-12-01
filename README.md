@@ -38,7 +38,7 @@
 
 
 ### 🚌 Top Langs & Algorithm
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=______&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeyeonjoo123&layout=compact)(https://github.com/leeyeonjoo123/leeyeonjoo123)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=95162tree)](https://solved.ac/95162tree)
 
