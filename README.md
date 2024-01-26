@@ -9,7 +9,7 @@
 ### 🙇 안녕하세요, 함께 하는 가치를 추구하는 이연주 입니다!
 ### 
 <!-- Body -->
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2a266d2b-e20c-4a26-ae7e-fa15865573cc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
