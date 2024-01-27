@@ -9,7 +9,9 @@
 ### 🙇 안녕하세요, 함께 하는 가치를 추구하는 이연주 입니다!
 ### 
 <!-- Body -->
-[![Badge]([https://www.credly.com/embed/2a266d2b-e20c-4a26-ae7e-fa15865573cc](https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png))]
+
+![Credly Badge](https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
+
 
 
 ### 🦾 Skills
