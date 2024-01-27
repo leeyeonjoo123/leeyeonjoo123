@@ -10,7 +10,7 @@
 ### 
 <!-- Body -->
 
-![Credly Badge](https://images.credly.com/size/320x320/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
+![Credly Badge](https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
 
 
 
