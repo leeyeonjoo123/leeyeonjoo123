@@ -18,7 +18,7 @@
 
 
 ### 💻Projects
-**① 룸메이트 매칭 서비스(붕어빵)**
+**① 룸메이트 매칭 서비스(붕어빵)[🔗 GitHub Repo.](https://github.com/BOONG-O-BBANG)**
 - **기간:** 2023.08 ~ 2023.09 (6주, 팀 5인)
 - **역할:** Frontend Developer & Infra Support
 - **Stack:** Vue.js, Spring Boot, AWS, Docker, Jenkins
@@ -32,7 +32,7 @@
 - 성과 : 프론트 구현 완료, 서버 장애 자체 해결 </br></br>
 
 
-**② 지하철역 기반 부동산 매물 추천 서비스(서울삽니다)**
+**② 지하철역 기반 부동산 매물 추천 서비스(서울삽니다)[🔗 GitHub Repo.](https://github.com/cloud-engineering-03/buy-seoul)**
 - **기간:** 2025.05 ~ 2025.08 (4개월, 팀 3인)
 - **역할:** Backend Developer
 - **Stack:** Spring Boot, PostgreSQL, Kubernetes, Public API
@@ -43,7 +43,7 @@
   - 노선별 관리 주체 상이로 인한 데이터 파편화·정합성 문제 해결
 - 성과 : 백엔드 API 개발, 데이터 정합성 개선 </br></br>
 
-**③ 미국 주식 자동매매 프로그램(StockCopilot)**
+**③ 미국 주식 자동매매 프로그램(StockCopilot)[🔗 모의투자 Report.](https://stock-copilot.cloud/report01.html)**
 - **기간:** 2025.11 ~ 2025.12 (2개월, 개인 프로젝트)
 - **역할:** Backend Developer & Infra
 - **Stack:** Spring Boot, 증권사 API, MySQL, Redis, Gemini API
@@ -51,7 +51,7 @@
 - 노트북 이용하여 홈서버 구현 및 운영
 - 성과 : 홈서버 운영, 두 달동안 18%의 수익 창출(동일기간 QQQ 10% 성장) </br></br>
 
-**④ iOS 타이머 위젯 앱(MyDayTimer) - 2일**
+**④ iOS 타이머 위젯 앱(MyDayTimer) - 2일[🔗 GitHub Repo.](https://github.com/leeyeonjoo123/MyDayTimer)**
 - **기간:** 2025.03 (2일, 개인 프로젝트)
 - **역할:** iOS Developer
 - **Stack:** Swift, WidgetKit, Xcode, Gemini
